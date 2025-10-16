@@ -25,7 +25,7 @@
 
 ### 🧰 Skills & Tools:
 <p align="left">
-<img src="https://skillicons.dev/icons?i=linux,python,bash,wireshark,vscode,github,git,azure" />
+<img src="https://skillicons.dev/icons?i=linux,python,c,cpp,bash,wireshark,vscode,github,git,azure" />
 </p>
 
 ---
@@ -41,4 +41,4 @@
 
 ---
 
-> 💬 “Security isn’t just a career — it’s a continuous mission.” 🕶️  
+> 💬 “Security isn’t just a career — it’s a continuous mission.” 🕶️ 
