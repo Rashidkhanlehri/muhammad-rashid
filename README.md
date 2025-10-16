@@ -1,48 +1,44 @@
-# muhammad-rashid
-<!-- Banner: if you upload banner.png to this repo, keep this tag; otherwise remove it -->
+<h1 align="center">🚀 Muhammad Rashid — Cybersecurity Student 🛡️</h1>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rashid/rashid/main/banner.png" alt="banner" width="900"/>
+  SOC Analyst Path | Threat Intelligence | Network Defense | TryHackMe Learner
 </p>
 
-<h1 align="center">Hi 👋, I'm Muhammad Rashid (rashid)</h1>
-<p align="center">🛡️ Cyber Security Undergraduate @ FAST NUCES Karachi • SOC Operations • Threat Intelligence • Network Defense</p>
+> 🧠 Passionate about securing systems, analyzing threats, and building practical defense mechanisms.  
+> Currently focusing on SOC Operations, Threat Hunting, and Cyber Defense — stepping towards Cloud Security Engineering ☁️  
 
 ---
 
-### 🔎 About Me
-I am a Cyber Security student focused on SOC operations, threat analysis, and incident response. I build practical skills via TryHackMe labs and small security projects, and I enjoy solving real-world security challenges.
+### ⚙️ My Focus Areas:
+- SOC Operations & SIEM
+- Threat Intelligence & Incident Response
+- Network Security & Vulnerability Analysis
+- Ethical Hacking Fundamentals
 
 ---
 
-### ⚙️ Skills & Tools
-**Security:** SOC Operations, Threat Hunting, Incident Response, SIEM  
-**Networking:** TCP/IP, Wireshark, Packet Analysis, Firewall Basics  
-**Scripting:** Python (security automation), Bash  
-**Platforms:** Linux (Kali), TryHackMe, GitHub
-
----
-
-### 🧠 Currently Learning
+### 🧠 Currently Learning:
 - TryHackMe SOC Analyst Path  
 - Linux for Security Professionals  
-- Python for Security Automation
+- Python for Cybersecurity Automation  
 
 ---
 
-### 🎯 Currently Building
-- SOC automation scripts (Python)  
-- Mini lab projects: packet capture analysis, basic IDS rules
-
----
-
-### 🔗 Connect with me
-<p>
-  <a href="mailto:rashidlehri699@gmail.com"><img src="https://img.shields.io/badge/Email-rashidlehri699@gmail.com-BA2121?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/muhammad-rashid"><img src="https://img.shields.io/badge/LinkedIn-Muhammad_Rashid-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://tryhackme.com/p/yourusername"><img src="https://img.shields.io/badge/TryHackMe-yourusername-FF6E00?style=for-the-badge&logo=tryhackme&logoColor=white"/></a>
-  <a href="https://github.com/rashid"><img src="https://img.shields.io/badge/GitHub-rashid-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+### 🧰 Skills & Tools:
+<p align="left">
+<img src="https://skillicons.dev/icons?i=linux,python,bash,wireshark,vscode,github,git,azure" />
 </p>
 
 ---
 
-> 💬 *“Security isn’t just a skill — it’s a mindset.”* 🕶️
+### 🌐 Connect with Me:
+<p align="left">
+<a href="mailto:rashidlehri699@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/muhammad-rashid"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://tryhackme.com/p/yourusername"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/></a>
+<a href="https://instagram.com/mohammad_rashid"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://facebook.com/mohammad.rashid"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+</p>
+
+---
+
+> 💬 “Security isn’t just a career — it’s a continuous mission.” 🕶️  
